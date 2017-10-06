@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "246026925058",
+    "firebase_url": "https://w6d3androidpay.firebaseio.com",
+    "project_id": "w6d3androidpay",
+    "storage_bucket": "w6d3androidpay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246026925058:android:c29219bc1cb1a0e7",
+        "android_client_info": {
+          "package_name": "com.example.admin.w6d3androidpay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246026925058-qopdcaq183f62rpcmehchtdvfjuk3c51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.w6d3androidpay",
+            "certificate_hash": "5c3f7c50c50816ea149a08cd2c8e94150022b376"
+          }
+        },
+        {
+          "client_id": "246026925058-qh0cscje123njne4l74hevm1inn5k3ui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_oRx2fIWlFXyGLv0NrCX8xFJWCwb4sDQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246026925058-qh0cscje123njne4l74hevm1inn5k3ui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
